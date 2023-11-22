@@ -1,3 +1,6 @@
+Todo: 1. modify screw holes to use only one lenght of screw
+      2. make screw holes cleaner to print
+
 # Bonzo
 ## Pro Micro based custom pseudo 40% keyboard inspired by [V4N4G0N](https://trashman.wiki/keyboards/v4n4g0n)
 
